@@ -1,3 +1,7 @@
 [submodule "Sputnik"]
 	path = Sputnik
 	url = C:/Users/michael/workspace/Sputnik
+[submodule "PresenceMod"]
+	path = PresenceMod
+	url = https://github.com/mjohnsonjr/PresenceMod.git
+	branch = master
