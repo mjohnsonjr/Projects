@@ -5,3 +5,11 @@
 	path = PresenceMod
 	url = https://github.com/mjohnsonjr/PresenceMod.git
 	branch = master
+[submodule "Fast"]
+	path = Fast
+	url = C:/Users/michael/workspaceLUNA/Fast
+
+
+[submodule "Rails"]
+	path = Rails
+	url = https://www.github.com/mjohnsonjr/Rails
